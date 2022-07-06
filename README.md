@@ -1,3 +1,3 @@
 # Python3-proxy
 
-A Simple For Routing request through a server.
+A Simple Proxy For Routing request through a server.
